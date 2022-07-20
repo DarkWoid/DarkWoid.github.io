@@ -1,3 +1,7 @@
+html {
+    cursor:url("images/cursor.png"), auto;
+}
+
 body {
     background-color: white
 }

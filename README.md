@@ -1,1 +1,1 @@
-https://darkwoid.github.io/
+https://darkwoid.tk/

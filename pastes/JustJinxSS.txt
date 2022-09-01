@@ -1,6 +1,6 @@
-if placeid == 8627832190 is true then
-    print("succes")
-    game.Workspace.not_a_backdoor.uwu:FireServer("")
+local gameid = game.PlaceId
+if(gameid == 8627832190) then
+game.Workspace.not_a_backdoor.uwu:FireServer("")
 else
-    error("fail")
+    error("")
 end
